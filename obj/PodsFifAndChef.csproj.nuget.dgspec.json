@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49002222\\PodsFifAndChef\\PodsFifAndChef.csproj": {}
+    "C:\\Users\\49002222\\PodsFifAndChef-3.0\\PodsFifAndChef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49002222\\PodsFifAndChef\\PodsFifAndChef.csproj": {
+    "C:\\Users\\49002222\\PodsFifAndChef-3.0\\PodsFifAndChef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49002222\\PodsFifAndChef\\PodsFifAndChef.csproj",
+        "projectUniqueName": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\PodsFifAndChef.csproj",
         "projectName": "PodsFifAndChef",
-        "projectPath": "C:\\Users\\49002222\\PodsFifAndChef\\PodsFifAndChef.csproj",
+        "projectPath": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\PodsFifAndChef.csproj",
         "packagesPath": "C:\\Users\\49002222\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49002222\\PodsFifAndChef\\obj\\",
+        "outputPath": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

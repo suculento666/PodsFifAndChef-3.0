@@ -1,40 +1,38 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace PodsFifAndChef.Controllers;
-
-
-
-public class HomeController : Controller
+namespace PodsFifAndChef.Controllers
 {
- 
-
-
-    public IActionResult Index()
+    public class HomeController : Controller
     {
-        return View();
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    public IActionResult IniciarSesion(string email, string contraseña)
-    {
-        Integrante integranteIngresado = BD.BuscarIntegrante(email, contraseña);
-        @ViewBag.Email = integranteIngresado.Email;
-        @ViewBag.Nombre = integranteIngresado.Nombre;
-        @ViewBag.DNI = integranteIngresado.DNI;
-        @ViewBag.Hobby = integranteIngresado.Hobby;
-        @ViewBag.Edad = integranteIngresado.Edad;
-        @ViewBag.Genero = integranteIngresado.Genero;
-        if(integranteIngresado != null)
+        public IActionResult Index()
         {
-            return View("DatosDelHombre");
-        } else {
-            return View("UsuarioNoEncontrado");
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult IniciarSesion(string email, string password)
+        {
+            Integrante integranteIngresado = BD.BuscarIntegrante(email, password);
+            if (integranteIngresado != null)
+            {
+                ViewBag.Email = integranteIngresado.Email;
+                ViewBag.Nombre = integranteIngresado.Nombre;
+                ViewBag.DNI = integranteIngresado.DNI;
+                ViewBag.Hobby = integranteIngresado.Hobby;
+                ViewBag.Edad = integranteIngresado.Edad;
+                ViewBag.Genero = integranteIngresado.Genero;
+                return View("Datos");
+            }
+            else
+            {
+                return View("UsuarioNoEncontrado");
+            }
         }
     }
-
 }

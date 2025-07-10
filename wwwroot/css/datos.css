@@ -1,0 +1,87 @@
+/* Estilo centrado para la página de datos del usuario */
+body {
+    background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  main {
+    margin: 0;
+    max-width: 410px;
+    width: 100%;
+    background: #fff;
+    border-radius: 17px;
+    box-shadow: 0 4px 17px rgba(52, 106, 184, 0.12);
+    padding: 2.2rem 2.2rem 1.7rem 2.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #356ad5;
+    margin-bottom: 2.18rem;
+    letter-spacing: 1px;
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  li {
+    background: #ecf3fc;
+    margin-bottom: 1.05rem;
+    padding: 1.12rem 1.12rem;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    color: #294a6a;
+    box-shadow: 0 1px 4px rgba(52, 106, 184, 0.06);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 90%;
+    justify-content: flex-start;
+  }
+  
+  li::before {
+    content: "👤";
+    font-size: 1.15em;
+    margin-right: 10px;
+    color: #356ad5;
+  }
+  li:nth-child(1)::before { content: "📧"; }
+  li:nth-child(2)::before { content: "🧑"; }
+  li:nth-child(3)::before { content: "🆔"; }
+  li:nth-child(4)::before { content: "🎲"; }
+  li:nth-child(5)::before { content: "🎂"; }
+  li:nth-child(6)::before { content: "👫"; }
+  
+  @media (max-width: 600px) {
+    main {
+      padding: 1.1rem 0.6rem 1rem 0.6rem;
+      max-width: 99vw;
+    }
+    h1 {
+      font-size: 1.1rem;
+    }
+    li {
+      font-size: 1rem;
+      padding: 0.62rem 0.7rem;
+      width: 99%;
+    }
+  }

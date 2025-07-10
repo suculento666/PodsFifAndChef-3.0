@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBHswMUVfgnNfpnp1HlY70onssfBhSyxIHRVe7vpHlI+7C/7gDffRq3vlOc5r8t9DFhiqkJQEIZrFY+Uga3UyQ==",
+  "dgSpecHash": "dxBvGxTz+foozKq0v1u7aCh1m0pc9DTPxVPAIdnsq7oACN9Ep/xqRVl0NrAfvR5Hk/Cn3eukcJ2B0u0QdTPkMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\49002222\\PodsFifAndChef\\PodsFifAndChef.csproj",
+  "projectFilePath": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\PodsFifAndChef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\49002222\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\49002222\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

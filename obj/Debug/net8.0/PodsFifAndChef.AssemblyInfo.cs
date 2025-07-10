@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PodsFifAndChef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd06b8d86ef0e0acae3d79dde4d44659fa0c32f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6358037ae8dd4917bc3709cba7ad7cfd8c0c8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("PodsFifAndChef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PodsFifAndChef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

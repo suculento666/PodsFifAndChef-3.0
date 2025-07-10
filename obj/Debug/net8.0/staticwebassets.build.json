@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ocSHw5sf50I0UwMwwWytL4FPr0iUZlJv6uuBeauwYNo=",
+  "Hash": "sVIDHOh9rieY8M+JM8T1UEmQG00Ee4uu8SIj53BJ64Y=",
   "Source": "PodsFifAndChef",
   "BasePath": "_content/PodsFifAndChef",
   "Mode": "Default",
@@ -10,17 +10,36 @@
     {
       "Name": "PodsFifAndChef\\wwwroot",
       "Source": "PodsFifAndChef",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\css\\datos.css",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
+      "BasePath": "_content/PodsFifAndChef",
+      "RelativePath": "css/datos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\datos.css"
+    },
+    {
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\css\\site.css",
+      "SourceId": "PodsFifAndChef",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\favicon.ico",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\js\\site.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -93,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PodsFifAndChef",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49002222\\PodsFifAndChef-3.0\\wwwroot\\",
       "BasePath": "_content/PodsFifAndChef",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
